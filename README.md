@@ -25,8 +25,8 @@ Este projeto tem como objetivo desenvolver uma aplicação web simples utilizand
 Projeto04_web/
   ├── pags_add/
   |      ├── contact.html
-  |      ├── my_projects.html
-  |      └── my_site.html
+  |      ├── main_page.html
+  |      └── my_projects.html
   ├── README.md
   └── index.html
 ```
